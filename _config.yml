@@ -1,0 +1,8 @@
+title: Franzone.github.io
+description: Jonathan Franzone's GitHub.io Pages Repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
